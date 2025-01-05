@@ -1,5 +1,7 @@
 # Microsoft Fluent UI
 
+https://docs.google.com/document/d/1xD9IrBKIC6FlJfpSeibdy2E-zAsLZ7zA6Og9HWr4jzY/
+
 Old name: **Microsoft.Fast.Components.FluentUI**
 
 New name: **Microsoft.FluentUI.AspNetCore.Components**
@@ -52,3 +54,11 @@ https://medium.com/medialesson/building-a-data-driven-appwith-blazor-and-fluent-
 Use Fluent UI Web Components with Ember
 
 https://learn.microsoft.com/en-us/fluent-ui/web-components/integrations/ember
+
+## Blazor
+
+https://baaijte.net/blog/fluent-blazor/
+
+https://baaijte.net/blog/fluent-blazor-revisited/
+
+https://blazorfluentui.azurewebsites.net/
