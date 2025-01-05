@@ -1,5 +1,34 @@
 # Microsoft Fluent UI
 
+Old name: **Microsoft.Fast.Components.FluentUI**
+
+New name: **Microsoft.FluentUI.AspNetCore.Components**
+
+https://fluentui-blazor.net/
+
+Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications
+
+https://github.com/microsoft/fluentui-blazor
+
+https://learn.microsoft.com/en-us/shows/open-at-microsoft/exploring-the-fluent-ui-blazor-components
+
+https://www.youtube.com/watch?v=YclePKNw0u4
+
+https://www.youtube.com/watch?v=Xe-D6vhJg4g
+
+https://www.youtube.com/watch?v=pqozAelV9xY
+
+This package is for use in .NET 8 and 9 Blazor projects. If you are using now unsupported .NET 6 or 7, please use the v3 version of the packages (names starting with Microsoft.Fast.Components.FluentUI)
+
+```
+dotnet new install Microsoft.FluentUI.AspNetCore.Templates
+
+dotnet add package Microsoft.FluentUI.AspNetCore.Components
+
+dotnet add package Microsoft.FluentUI.AspNetCore.Components.Icons
+dotnet add package Microsoft.FluentUI.AspNetCore.Components.Emoji
+```
+
 ## Blazor and Fluent UI
 
 Use Fluent UI Web Components with Blazor
